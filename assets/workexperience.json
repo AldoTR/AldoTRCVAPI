@@ -1,12 +1,12 @@
 {
     "works" :[
         {
-            "charge" : "Teacher on Universidad Veracruzana",
-            "company": "company",
-            "startdate": "startdate",
-            "enddate": "enddate",
-            "city": "city",
-            "country": "country",
+            "charge" : "Proffesor of operative systems",
+            "company": "Universidad Veracruzana",
+            "startdate": "16/08/2021",
+            "enddate": "",
+            "city": "Ixtaczoquitlán, Veracruzana",
+            "country": "Mexico",
             "acomplishments": [
                 {
                     "description": "default description"

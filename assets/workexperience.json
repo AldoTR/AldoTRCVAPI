@@ -1,0 +1,20 @@
+{
+    "works" :[
+        {
+            "charge" : "Teacher on Universidad Veracruzana",
+            "company": "company",
+            "startdate": "startdate",
+            "enddate": "enddate",
+            "city": "city",
+            "country": "country",
+            "acomplishments": [
+                {
+                    "description": "default description"
+                },
+                {
+                    "description": "default description"
+                }
+              ]
+        }
+    ] 
+}

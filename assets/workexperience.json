@@ -1,20 +1,45 @@
 {
     "works" :[
         {
-            "charge" : "Proffesor of operative systems",
-            "company": "Universidad Veracruzana",
-            "startdate": "16/08/2021",
-            "enddate": "",
-            "city": "Ixtaczoquitlán, Veracruzana",
+            "charge" : "Founder and CEO of Team Guachi",
+            "company": "Guachi Company",
+            "startdate": "01/01/2018",
+            "enddate": "Nowadays",
+            "city": "Orizaba, Veracruz",
             "country": "Mexico",
             "acomplishments": [
                 {
-                    "description": "default description"
-                },
+                    "description": "On the first day of 2018 I started with the Guachi project, which is based on the YouTube channel with the same name but expands to many other areas mainly on the internet."
+                }
+              ]
+        },
+        {
+            "charge" : "Teacher of operative systems",
+            "company": "Universidad Veracruzana",
+            "startdate": "16/08/2021",
+            "enddate": "Nowadays",
+            "city": "Ixtaczoquitlán, Veracruz",
+            "country": "Mexico",
+            "acomplishments": [
                 {
-                    "description": "default description"
+                    "description": "I am currently the professor of the operating systems subject taught in the third period of the software engineering bachelor's degree. I have managed to spend two years as the head of the subject and have all my students pass."
+                }
+
+              ]
+        },
+        {
+            "charge" : "Community Manager of Cremeria Tere social newtworks",
+            "company": "Cremeria Tere",
+            "startdate": "01/07/2023",
+            "enddate": "Nowadays",
+            "city": "Orizaba, Veracruz",
+            "country": "Mexico",
+            "acomplishments": [
+                {
+                    "description": "My most recent job is working as the social media administrator of the business called Cremeria Tere as part of the work I do in another advertising company with which I collaborate."
                 }
               ]
         }
+        
     ] 
 }
